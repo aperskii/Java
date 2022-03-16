@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=agenda()
+comment1.params=p
+comment1.target=void\ ajout(personne)
+comment2.params=
+comment2.target=void\ affiche()
+comment3.params=no
+comment3.target=void\ recherche(java.lang.String)
+numComments=4

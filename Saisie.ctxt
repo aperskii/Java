@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=question
+comment0.target=java.lang.String\ lire_String(java.lang.String)
+comment1.params=question
+comment1.target=int\ lire_int(java.lang.String)
+comment2.params=question
+comment2.target=double\ lire_double(java.lang.String)
+numComments=3
